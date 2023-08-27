@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+body{
+    background-color: #f0cda0;
+}
+.abc{
+    list-style-image: url(img/unchecked.png);
+    background-color: #349797;
+}
+.def{
+    list-style-image: url(img/checked.png);
+    background-color: #f0cda0;
+    text-decoration: line-through;
+}
+.ghj{
+    list-style-image: url(img/unchecked.png);
+    background-color: #00ffff;
+}
+span{
+color: red;
+}
+ul li{
+    background-color:red ;
+}
